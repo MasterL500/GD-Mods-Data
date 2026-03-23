@@ -48,5 +48,109 @@
         "iconType": 1,
         "iconID": 485,
         "code": "GD Awards"
+    },
+    {
+        "iconType": 4,
+        "iconID": 121,
+        "code": "Retrospective"
+    },
+    {
+        "iconType": 4,
+        "iconID": 146,
+        "code": "Duckstep"
+    },
+    {
+        "iconType": 4,
+        "iconID": 155
+    },
+    {
+        "iconType": 4,
+        "iconID": 158
+    },
+    {
+        "iconType": 5,
+        "iconID": 63
+    },
+    {
+        "iconType": 5,
+        "iconID": 90,
+        "code": "Geometry"
+    },
+    {
+        "iconType": 5,
+        "iconID": 91,
+        "code": "Ruins"
+    },
+    {
+        "iconType": 5,
+        "iconID": 114
+    },
+    {
+        "iconType": 6,
+        "iconID": 57,
+        "code": "Ravenous Beasts"
+    },
+    {
+        "iconType": 6,
+        "iconID": 63,
+        "code": "Button Masher"
+    },
+    {
+        "iconType": 6,
+        "iconID": 71,
+        "code": "Put Ya Hands Up"
+    },
+    {
+        "iconType": 6,
+        "iconID": 116
+    },
+    {
+        "iconType": 6,
+        "iconID": 138,
+        "code": "Cheat Codes"
+    },
+    {
+        "iconType": 6,
+        "iconID": 147
+    },
+    {
+        "iconType": 7,
+        "iconID": 44
+    },
+    {
+        "iconType": 7,
+        "iconID": 55
+    },
+    {
+        "iconType": 7,
+        "iconID": 83
+    },
+    {
+        "iconType": 7,
+        "iconID": 92,
+        "code": "Boogie"
+    },
+    {
+        "iconType": 8,
+        "iconID": 37,
+        "code": "Backstreet Boy"
+    },
+    {
+        "iconType": 9,
+        "iconID": 40
+    },
+    {
+        "iconType": 13,
+        "iconID": 17,
+        "code": "Noel Electra"
+    },
+    {
+        "iconType": 14,
+        "iconID": 6
+    },
+    {
+        "iconType": 14,
+        "iconID": 8,
+        "code": "NCS Album"
     }
 ]
