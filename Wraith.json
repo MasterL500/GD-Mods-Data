@@ -6,11 +6,47 @@
     {
         "iconType": 1,
         "iconID": 231,
-        "code": "citadel"
+        "code": "Citadel"
     },
     {
         "iconType": 1,
         "iconID": 309,
-        "code": "skyline pt 2"
+        "code": "Skyline pt 2"
+    },
+    {
+        "iconType": 1,
+        "iconID": 321,
+        "code": "Brainpowah47"
+    },
+    {
+        "iconType": 1,
+        "iconID": 343
+    },
+    {
+        "iconType": 1,
+        "iconID": 351,
+        "code": "Random Gauntlet"
+    },
+    {
+        "iconType": 1,
+        "iconID": 390
+    },
+    {
+        "iconType": 1,
+        "iconID": 409,
+        "code": "Back on Dash"
+    },
+    {
+        "iconType": 1,
+        "iconID": 440
+    },
+    {
+        "iconType": 1,
+        "iconID": 445
+    },
+    {
+        "iconType": 1,
+        "iconID": 485,
+        "code": "GD Awards"
     }
 ]
