@@ -46,6 +46,11 @@
 	},
 	{
 		"iconType": 1,
+		"iconID": 435,
+		"iconCode": "GDS2MIL"
+	},
+	{
+		"iconType": 1,
 		"iconID": 440
 	},
 	{
