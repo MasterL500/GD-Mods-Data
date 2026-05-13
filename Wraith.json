@@ -47,7 +47,8 @@
 	{
 		"iconType": 1,
 		"iconID": 435,
-		"iconCode": "GDS2MIL"
+		"iconCode": "GDS2MIL",
+		"noGameData": true
 	},
 	{
 		"iconType": 1,
