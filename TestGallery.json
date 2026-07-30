@@ -9,5 +9,26 @@
 		"downloads": 82,
 		"isVanilla": true,
 		"hasProjectFiles": false
+	},
+	"2": {
+		"ID": 2,
+		"name": "Spider || Croco",
+		"author": "Dibbj",
+		"description": "Vanilla: Replaces Spider 23.",
+		"gamemode": "Spider",
+		"downloads": 258,
+		"isVanilla": true,
+		"hasProjectFiles": true
+	},
+	"3": {
+		"ID": 3,
+		"name": "SN-SW // Hovering Cubes",
+		"author": "RetroAdvance64",
+		"collaborators": ["AngeloToons"],
+		"description": "Swing featured in Supernova. Original concept was made by AngeloToons",
+		"gamemode": "Swing",
+		"downloads": 123,
+		"isVanilla": false,
+		"hasProjectFiles": false
 	}
 }
