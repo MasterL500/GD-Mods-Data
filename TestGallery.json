@@ -24,11 +24,93 @@
 		"ID": 3,
 		"name": "SN-SW // Hovering Cubes",
 		"author": "RetroAdvance64",
-		"collaborators": ["AngeloToons"],
+		"collaborators": [
+			"AngeloToons"
+		],
 		"description": "Swing featured in Supernova. Original concept was made by AngeloToons",
 		"gamemode": "Swing",
 		"downloads": 123,
 		"isVanilla": false,
+		"hasProjectFiles": false
+	},
+	"4": {
+		"ID": 4,
+		"name": "Nyan Cat",
+		"author": "bugpesto",
+		"description": "nyanyanyanyanyanyanyanyanyanyanyanyanyanyanyanyanyanyan",
+		"gamemode": "Ship",
+		"downloads": 635,
+		"isVanilla": true,
+		"hasProjectFiles": false
+	},
+	"5": {
+		"ID": 5,
+		"name": "The Beheaded (Dead Cells)",
+		"author": "cyanflower",
+		"description": "A robot based on the protagonist from the rogue-lite action platformer game Dead Cells.",
+		"gamemode": "Robot",
+		"downloads": 224,
+		"isVanilla": true,
+		"hasProjectFiles": false
+	},
+	"6": {
+		"ID": 6,
+		"name": "Thonkong ball",
+		"author": "AsRenCL",
+		"description": "Based on the poorly drawn version of the thinking emoji",
+		"gamemode": "Ball",
+		"downloads": 85,
+		"isVanilla": true,
+		"hasProjectFiles": false
+	},
+	"7": {
+		"ID": 7,
+		"name": "First Icon Contest UFO",
+		"author": "FenixCore",
+		"description": "My UFO winner of first icon contest by robtop (yes, i win this contest)",
+		"gamemode": "UFO",
+		"downloads": 75,
+		"isVanilla": true,
+		"hasProjectFiles": false
+	},
+	"8": {
+		"ID": 8,
+		"name": "Doodle Jetpack",
+		"author": "Buddykael",
+		"description": "This icon's whole purpose is to complete the doodle icon set",
+		"gamemode": "Jetpack",
+		"downloads": 569,
+		"isVanilla": true,
+		"hasProjectFiles": false
+	},
+	"9": {
+		"ID": 9,
+		"name": "Carrot Wave Redux",
+		"author": "Exetric",
+		"description": "Remake of the carrot wave to look more carrot'y I guess",
+		"gamemode": "Wave",
+		"downloads": 116,
+		"isVanilla": true,
+		"hasProjectFiles": false
+	},
+	"10": {
+		"ID": 10,
+		"name": "2.2-ified Default Cube",
+		"author": "Asterveila",
+		"description": "Basic edit of the Default Icon with extra lighting.",
+		"gamemode": "Cube",
+		"downloads": 184,
+		"isVanilla": false,
+		"hasProjectFiles": false
+	},
+	"11": {
+		"ID": 11,
+		"name": "Ashley",
+		"author": "ML500",
+		"description": "Ashley from the level \"Ashley Wave Trials\" by OddMod — Replaces Cube 459 [ Icon also included in Master Pack ]",
+		"gamemode": "Cube",
+		"downloads": 132,
+		"isVanilla": true,
 		"hasProjectFiles": false
 	}
 }
