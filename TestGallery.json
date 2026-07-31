@@ -12,6 +12,7 @@
 	},
 	"2": {
 		"ID": 2,
+		"file": "Spider_Croco.gdicon",
 		"name": "Spider || Croco",
 		"author": "Dibbj",
 		"description": "Vanilla: Replaces Spider 23.",
@@ -22,6 +23,7 @@
 	},
 	"3": {
 		"ID": 3,
+		"file": "SN-SW_Hovering_Cubes.gdicon",
 		"name": "SN-SW // Hovering Cubes",
 		"author": "RetroAdvance64",
 		"collaborators": [
@@ -35,6 +37,7 @@
 	},
 	"4": {
 		"ID": 4,
+		"file": "Nyan_Cat.gdicon",
 		"name": "Nyan Cat",
 		"author": "bugpesto",
 		"description": "nyanyanyanyanyanyanyanyanyanyanyanyanyanyanyanyanyanyan",
@@ -45,6 +48,7 @@
 	},
 	"5": {
 		"ID": 5,
+		"file": "The_Beheaded_Dead_Cells.gdicon",
 		"name": "The Beheaded (Dead Cells)",
 		"author": "cyanflower",
 		"description": "A robot based on the protagonist from the rogue-lite action platformer game Dead Cells.",
@@ -55,6 +59,7 @@
 	},
 	"6": {
 		"ID": 6,
+		"file": "Thonkong_ball.gdicon",
 		"name": "Thonkong ball",
 		"author": "AsRenCL",
 		"description": "Based on the poorly drawn version of the thinking emoji",
@@ -65,6 +70,7 @@
 	},
 	"7": {
 		"ID": 7,
+		"file": "First_Icon_Contest_UFO.gdicon",
 		"name": "First Icon Contest UFO",
 		"author": "FenixCore",
 		"description": "My UFO winner of first icon contest by robtop (yes, i win this contest)",
@@ -75,6 +81,7 @@
 	},
 	"8": {
 		"ID": 8,
+		"file": "Doodle_Jetpack.gdicon",
 		"name": "Doodle Jetpack",
 		"author": "Buddykael",
 		"description": "This icon's whole purpose is to complete the doodle icon set",
@@ -85,6 +92,7 @@
 	},
 	"9": {
 		"ID": 9,
+		"file": "Carrot_Wave_Redux.gdicon",
 		"name": "Carrot Wave Redux",
 		"author": "Exetric",
 		"description": "Remake of the carrot wave to look more carrot'y I guess",
@@ -95,6 +103,7 @@
 	},
 	"10": {
 		"ID": 10,
+		"file": "22-ified_Default_Cube.gdicon",
 		"name": "2.2-ified Default Cube",
 		"author": "Asterveila",
 		"description": "Basic edit of the Default Icon with extra lighting.",
@@ -105,12 +114,24 @@
 	},
 	"11": {
 		"ID": 11,
+		"file": "Ashley.gdicon",
 		"name": "Ashley",
 		"author": "ML500",
 		"description": "Ashley from the level \"Ashley Wave Trials\" by OddMod — Replaces Cube 459 [ Icon also included in Master Pack ]",
 		"gamemode": "Cube",
 		"downloads": 132,
 		"isVanilla": true,
+		"hasProjectFiles": false
+	},
+	"12": {
+		"ID": 12,
+		"file": "Arachnitoto.gdicon",
+		"name": "Arachnitoto",
+		"author": "bugpesto",
+		"description": "My own OC as a spider.",
+		"gamemode": "Spider",
+		"downloads": 287,
+		"isVanilla": false,
 		"hasProjectFiles": false
 	}
 }
