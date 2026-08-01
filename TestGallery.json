@@ -7,6 +7,7 @@
 		"description": "My own remake of Gelt's Bunny Icon — Replaces Cube 99 [ Master Pack ]",
 		"gamemode": "Cube",
 		"downloads": 82,
+		"format": "Vanilla",
 		"isVanilla": true,
 		"hasProjectFiles": false
 	},
@@ -18,6 +19,7 @@
 		"description": "Vanilla: Replaces Spider 23.",
 		"gamemode": "Spider",
 		"downloads": 258,
+		"format": "Vanilla",
 		"isVanilla": true,
 		"hasProjectFiles": true
 	},
@@ -32,6 +34,7 @@
 		"description": "Swing featured in Supernova. Original concept was made by AngeloToons",
 		"gamemode": "Swing",
 		"downloads": 123,
+		"format": "MoreIcons",
 		"isVanilla": false,
 		"hasProjectFiles": false
 	},
@@ -43,6 +46,7 @@
 		"description": "nyanyanyanyanyanyanyanyanyanyanyanyanyanyanyanyanyanyan",
 		"gamemode": "Ship",
 		"downloads": 635,
+		"format": "Vanilla",
 		"isVanilla": true,
 		"hasProjectFiles": false
 	},
@@ -54,6 +58,7 @@
 		"description": "A robot based on the protagonist from the rogue-lite action platformer game Dead Cells.",
 		"gamemode": "Robot",
 		"downloads": 224,
+		"format": "Vanilla",
 		"isVanilla": true,
 		"hasProjectFiles": false
 	},
@@ -65,6 +70,7 @@
 		"description": "Based on the poorly drawn version of the thinking emoji",
 		"gamemode": "Ball",
 		"downloads": 85,
+		"format": "Vanilla",
 		"isVanilla": true,
 		"hasProjectFiles": false
 	},
@@ -76,6 +82,7 @@
 		"description": "My UFO winner of first icon contest by robtop (yes, i win this contest)",
 		"gamemode": "UFO",
 		"downloads": 75,
+		"format": "Vanilla",
 		"isVanilla": true,
 		"hasProjectFiles": false
 	},
@@ -87,6 +94,7 @@
 		"description": "This icon's whole purpose is to complete the doodle icon set",
 		"gamemode": "Jetpack",
 		"downloads": 569,
+		"format": "Vanilla",
 		"isVanilla": true,
 		"hasProjectFiles": false
 	},
@@ -98,6 +106,7 @@
 		"description": "Remake of the carrot wave to look more carrot'y I guess",
 		"gamemode": "Wave",
 		"downloads": 116,
+		"format": "Vanilla",
 		"isVanilla": true,
 		"hasProjectFiles": false
 	},
@@ -109,6 +118,7 @@
 		"description": "Basic edit of the Default Icon with extra lighting.",
 		"gamemode": "Cube",
 		"downloads": 184,
+		"format": "MoreIcons",
 		"isVanilla": false,
 		"hasProjectFiles": false
 	},
@@ -120,6 +130,7 @@
 		"description": "Ashley from the level \"Ashley Wave Trials\" by OddMod — Replaces Cube 459 [ Icon also included in Master Pack ]",
 		"gamemode": "Cube",
 		"downloads": 132,
+		"format": "Vanilla",
 		"isVanilla": true,
 		"hasProjectFiles": false
 	},
@@ -131,6 +142,7 @@
 		"description": "My own OC as a spider.",
 		"gamemode": "Spider",
 		"downloads": 287,
+		"format": "MoreIcons",
 		"isVanilla": false,
 		"hasProjectFiles": false
 	}
